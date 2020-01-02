@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name":"Sam Orend",
+    "occupation":"Software Engineer",
+    "description":"I love exploring technology, and using it to solve real-world problems",
+    "image":"unnamed.jpg",
+    "bio":"I am a software engineer with a strong background in C/C++, Full-Stack Web and iOS development. I am eagerly learning and exploring new skills and technologies.",
+    "contactmessage":"Feel free to reach out! I love meeting new people, collaborating on projects and am open to oppurtunities!",
+    "email": "s2orend@edu.uwaterloo.ca",
+    "phone": "519-590-4171",
+    "address":{
+      "street":"40 Notchwood Crt",
+      "city":"Kitchener",
+      "state":"Ontario",
+      "zip": "N2A 3L6"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/sam-orend/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/samwise2",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"90%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+        {
+            "title":"Lomic Law",
+            "award":"Sample Website: Lomic Law (Prominent Toronto Law Firm)",
+            "category":"Full-Stack Developer. Custom Javascript Components and UI/UX Design.",
+            "image":"LomicLaw.jpg",
+            "url":"https://lomic-law.ca"
+        },
+      {
+        "title":"MineBusker",
+        "award":"Winner of 2018 Ethereum Hacks Waterloo",
+        "category":"Ethereum Hacks Winning Project",
+        "image":"mine.png",
+        "url":"https://devpost.com/software/minebusker"
+      },
+      {
+        "title":"Auxify",
+        "award":"Real-time, Collaborative Playlist Creation With Spotify",
+        "category":"Coming Soon: Collaborative, Real-Time Playlist Creation Integrated with Spotfiy",
+        "image":"AuxifyPrev.jpg",
+        "url":""
+      },
+      {
+        "title":"Simulated Annealing For Disaster Management",
+        "award":"Silver Medal - 2018 Waterloo Engineering Fair",
+        "category":"A C++ console application to increase the efficency of disaster relief efforts.",
+        "image":"Safety.jpg",
+        "url":"https://github.com/samwise2/Simulated-Annealing-For-Disaster-Management"
+      },
+      {
+        "title":"Quasar",
+        "award":"Awarded Best Project at SpartaHacks 2016",
+        "category":"SpartaHacks Winner. Python Game to teach young children how to write their ABCs.",
+        "image":"Writing.jpg",
+        "url":"https://github.com/samwise2/Quasar"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
